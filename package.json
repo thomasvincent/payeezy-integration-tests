@@ -1,0 +1,22 @@
+{
+  "name": "money2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qw3rtman/testing-payeezy.git"
+  },
+  "author": "Nimit Kalra <nimit@nimitkalra.com> (http://nimitkalra.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qw3rtman/testing-payeezy/issues"
+  },
+  "homepage": "https://github.com/qw3rtman/testing-payeezy#readme",
+  "dependencies": {
+    "payeezy": "^1.0.1"
+  }
+}
